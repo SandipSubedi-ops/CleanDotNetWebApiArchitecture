@@ -1,0 +1,12 @@
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Models\bin\Debug\net9.0\CleanDapperApp.Models.deps.json
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Models\bin\Debug\net9.0\CleanDapperApp.Models.dll
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Models\bin\Debug\net9.0\CleanDapperApp.Models.pdb
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Models\obj\Debug\net9.0\CleanDapperApp.Models.csproj.AssemblyReference.cache
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Models\obj\Debug\net9.0\CleanDapperApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Models\obj\Debug\net9.0\CleanDapperApp.Models.AssemblyInfoInputs.cache
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Models\obj\Debug\net9.0\CleanDapperApp.Models.AssemblyInfo.cs
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Models\obj\Debug\net9.0\CleanDapperApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Models\obj\Debug\net9.0\CleanDapperApp.Models.dll
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Models\obj\Debug\net9.0\refint\CleanDapperApp.Models.dll
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Models\obj\Debug\net9.0\CleanDapperApp.Models.pdb
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Models\obj\Debug\net9.0\ref\CleanDapperApp.Models.dll

@@ -1,0 +1,8 @@
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Api\obj\Debug\net9.0\CleanDapperApp.Api.csproj.AssemblyReference.cache
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Api\obj\Debug\net9.0\CleanDapperApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Api\obj\Debug\net9.0\CleanDapperApp.Api.AssemblyInfoInputs.cache
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Api\obj\Debug\net9.0\CleanDapperApp.Api.AssemblyInfo.cs
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Api\obj\Debug\net9.0\CleanDapperApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Api\obj\Debug\net9.0\CleanDapperApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Api\obj\Debug\net9.0\CleanDapperApp.Api.MvcApplicationPartsAssemblyInfo.cache

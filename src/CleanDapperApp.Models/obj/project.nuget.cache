@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nVIH0XB813A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nepal\\AntigravityProjects\\DotNetWebAPIReposotoryArchicture\\src\\CleanDapperApp.Models\\CleanDapperApp.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nepal\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

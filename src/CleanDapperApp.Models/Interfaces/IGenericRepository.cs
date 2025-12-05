@@ -1,0 +1,15 @@
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using CleanDapperApp.Models.Entities;
+
+namespace CleanDapperApp.Models.Interfaces
+{
+    public interface IGenericRepository<T> where T : BaseEntity
+    {
+        Task<T?> GetByIdAsync(int id);
+        Task<IReadOnlyList<T>> GetAllAsync();
+        Task<int> AddAsync(T entity);
+        Task<int> UpdateAsync(T entity);
+        Task<int> DeleteAsync(int id);
+    }
+}
