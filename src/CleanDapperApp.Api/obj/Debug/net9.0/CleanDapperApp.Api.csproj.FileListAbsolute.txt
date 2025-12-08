@@ -6,3 +6,4 @@ C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDap
 C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Api\obj\Debug\net9.0\CleanDapperApp.Api.csproj.CoreCompileInputs.cache
 C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Api\obj\Debug\net9.0\CleanDapperApp.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Api\obj\Debug\net9.0\CleanDapperApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Api\obj\Debug\net9.0\CleanDapperApp.Api.sourcelink.json

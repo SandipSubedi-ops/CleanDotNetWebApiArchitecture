@@ -24,6 +24,9 @@ namespace CleanDapperApp.Api.Extensions
             
             // Email Service
             services.AddScoped<IEmailService, EmailService>();
+
+            // File Service
+            services.AddScoped<IFileService, FileService>();
         }
 
         public static void ConfigureJwt(this IServiceCollection services, IConfiguration configuration)
