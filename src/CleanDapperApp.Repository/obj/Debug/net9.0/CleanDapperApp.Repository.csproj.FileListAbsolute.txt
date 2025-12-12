@@ -8,9 +8,9 @@ C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDap
 C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Repository\obj\Debug\net9.0\CleanDapperApp.Repository.AssemblyInfoInputs.cache
 C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Repository\obj\Debug\net9.0\CleanDapperApp.Repository.AssemblyInfo.cs
 C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Repository\obj\Debug\net9.0\CleanDapperApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Repository\obj\Debug\net9.0\CleanDapperApp.Repository.sourcelink.json
 C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Repository\obj\Debug\net9.0\CleanDap.EB828FEA.Up2Date
 C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Repository\obj\Debug\net9.0\CleanDapperApp.Repository.dll
 C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Repository\obj\Debug\net9.0\refint\CleanDapperApp.Repository.dll
 C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Repository\obj\Debug\net9.0\CleanDapperApp.Repository.pdb
 C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Repository\obj\Debug\net9.0\ref\CleanDapperApp.Repository.dll
-C:\Users\nepal\AntigravityProjects\DotNetWebAPIReposotoryArchicture\src\CleanDapperApp.Repository\obj\Debug\net9.0\CleanDapperApp.Repository.sourcelink.json

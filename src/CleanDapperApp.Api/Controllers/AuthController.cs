@@ -1,4 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
+using CleanDapperApp.Models.Interfaces;
+using CleanDapperApp.Models.Entities;
 
 namespace CleanDapperApp.Api.Controllers
 {

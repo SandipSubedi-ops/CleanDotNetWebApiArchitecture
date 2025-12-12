@@ -1,4 +1,6 @@
+using CleanDapperApp.Models.Interfaces;
 using CleanDapperApp.Repository;
+using CleanDapperApp.Repository.Repositories;
 using CleanDapperApp.Repository.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.DependencyInjection;
@@ -18,6 +20,9 @@ namespace CleanDapperApp.Api.Extensions
 
             // Unit of Work
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+            // Base Repository (for stored procedures and multi-database support)
+            services.AddScoped<IBaseRepository, BaseRepository>();
 
             // Auth Service
             services.AddScoped<IJwtProvider, JwtProvider>();

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanDapperApp.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+972040ae7649dcbc29327d5c6343c2760542553e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ac897c7e9469f23551593b2d49f07e05eb4b8c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanDapperApp.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanDapperApp.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
